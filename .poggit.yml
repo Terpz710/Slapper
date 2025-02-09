@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest.  Open the CI at https://poggit.pmmp.io/ci/Vecnavium/Slapper 
+--- # Poggit-CI Manifest.  Open the CI at https://poggit.pmmp.io/ci/Terpz710/Slapper 
 build-by-default: true
 branches:
 - stable
